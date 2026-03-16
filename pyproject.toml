@@ -1,0 +1,8 @@
+[project]
+name = "autoloop-packing-circle-in-unit-square-example"
+version = "0.1.0"
+description = "Minimal circle packing example for autoloop"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.4.3",
+]
